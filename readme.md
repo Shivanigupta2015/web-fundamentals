@@ -1,8 +1,6 @@
 <h1 align="center">HTML</h1>
 <img align="right" src="./images/Html.webp" width="250" height="400" style="border-radius: 15px"/>
 
-<figcaption style="text-align: right;">Tim Berners Lee</figcaption>
-
 **HTML** stands for HyperText Markup Language. It is the standard markup language used to create and structure content on the web, such as text, images, links, tables, and multimedia.
 
 - **HyperText:** Refers to the ability to link to other web pages using hyperlinks.
@@ -28,7 +26,6 @@
 ---
 <h1 align="center">CSS (Cascading Style Sheets)</h1>
 <img align="right" src="./images/css.jpg" width="250" height="400" style="border-radius: 15px"/>
-<figcaption style="text-align: right;">Håkon Wium Lie</figcaption>
 
 **CSS** stands for ***Cascading Style Sheets.*** It is the standard stylesheet language used to control the presentation and layout of web pages, such as colors, fonts, spacing, and positioning.
 
@@ -53,7 +50,7 @@
 
 <h1 align="center">JavaScript</h1>
 <img align="right" src="./images/JS.jpg" width="250" height="400" style="border-radius: 15px"/>
-<figcaption style="text-align: right">Brendan Eich</figcaption>
+
 
 **JavaScript** is a high-level, interpreted programming language primarily used to create interactive and dynamic behavior on websites. It allows developers to implement features like form validation, interactive maps, animations, and real-time updates.
 
