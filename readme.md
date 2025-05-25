@@ -77,7 +77,7 @@
 ---
 
 <h1 align="center">React</h1>
-<img align="" width="250" height="400" style="border-radius: 15px"/>
+<img align="right" src="./images/react.jpg" width="250" height="400" style="border-radius: 15px"/>
 
 **React** is a popular JavaScript library for building **user interfaces, particularly for single-page applications (SPAs).** It enables developers to create fast, interactive, and dynamic front-end experiences using reusable components.
 
