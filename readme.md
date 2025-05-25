@@ -75,3 +75,31 @@
 - Empower developers to build complex applications directly in the browser.
 
 ---
+
+<h1 align="center">React</h1>
+<img align="" width="250" height="400" style="border-radius: 15px"/>
+
+**React** is a popular JavaScript library for building **user interfaces, particularly for single-page applications (SPAs).** It enables developers to create fast, interactive, and dynamic front-end experiences using reusable components.
+
+- **React:** The name comes from the idea of reactive programming, where the UI "reacts" to changes in state.
+- **Library vs Framework:** React is a library, not a full framework—it focuses only on the view layer (UI) in the MVC (Model-View-Controller) architecture.
+
+**React works alongside JavaScript (for logic), HTML/JSX (for structure), and CSS (for styling) to build modern, component-based web applications.**
+
+---
+
+**React invented by whom, when, and why:**
+
+🔹 React was invented by **Jordan Walke,** a software engineer at **Facebook, in 2011 and was open-sourced in March 2013.**
+
+🔹 It was first used internally on Facebook’s News Feed, and later on Instagram.
+
+🔹 Jordan Walke and the team at Facebook created React to:
+
+- Improve the performance and scalability of Facebook’s complex UI.
+- Enable declarative programming, so developers can describe what the UI should look like for a given state.
+- Promote component-based architecture, encouraging modular, reusable, and testable code.
+- Simplify DOM updates through a virtual DOM, making applications faster and more efficient.
+- Help developers build large-scale applications with dynamic data that changes over time without reloading the page.
+
+---
